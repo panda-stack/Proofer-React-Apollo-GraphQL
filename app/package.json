@@ -47,7 +47,7 @@
     "draft-js-hashtag-plugin": "^2.0.1",
     "draft-js-plugins-editor": "^2.0.4",
     "draftjs-to-html": "^0.8.3",
-    "express": "4.16.2",
+    "express": "4.17.3",
     "graphql": "^0.13.1",
     "graphql-tag": "^2.8.0",
     "helmet": "^3.12.0",
